@@ -1,0 +1,18 @@
+body {
+    background-color: #fff
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    border: solid 1px;
+    shape-rendering: auto;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 40px;
+    background-color: red;
+}
+
+h2 {
+    font-family: #fff;
+}
