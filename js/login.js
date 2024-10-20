@@ -134,3 +134,13 @@ if (user != "" && pass != "" ){
 }
 
 
+function mostrarMensaje() {
+    alert("¡Gracias por su Visita!");
+   
+  }
+  
+  // Llamo a la función
+  mostrarMensaje();
+
+
+  

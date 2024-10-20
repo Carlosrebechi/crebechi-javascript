@@ -9,6 +9,8 @@ if (!isNaN(cant)){
         if (!isNaN(dato)){
 
             total = total + dato ;
+            console.log(total);
+
         }else {
 
             alert("No ingresaste un numero. Operacion cancelada ");
